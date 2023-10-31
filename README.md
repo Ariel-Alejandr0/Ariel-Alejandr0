@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ariel-Alejandr0&show_icons=true&count_private=true&hide_border=true&title_color=458588&icon_color=c0c0c0&text_color=ebdbb2&bg_color=1d1d1d" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariel-Alejandr0&layout=compact&hide_border=true&title_color=458588&text_color=dbdbb2&bg_color=1d1d1d" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ariel-Alejandr0&show_icons=true&count_private=true&hide_border=true&title_color=cc241d&icon_color=c0c0c0&text_color=ebdbb2&bg_color=1d1d1d" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariel-Alejandr0&layout=compact&hide_border=true&title_color=cc241d&text_color=dbdbb2&bg_color=1d1d1d" />
 </div>
