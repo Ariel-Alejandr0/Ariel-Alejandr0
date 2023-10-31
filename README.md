@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariel-Alejandr0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ariel-Alejandr0&show_icons=true&count_private=true&hide_border=true&title_color=cd853f&icon_color=c0c0c0&text_color=c0c0c0&bg_color=0E2848E6" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariel-Alejandr0&layout=compact&hide_border=true&title_color=cd853f&text_color=c0c0c0&bg_color=0E2848E6" />
+</div>
